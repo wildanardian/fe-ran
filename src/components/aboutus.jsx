@@ -4,10 +4,12 @@ function AboutusComponent() {
      return (
             <>
                 <div className="container-fluid">
-                    <div className="row  container-about-us">
-                            <div className="col-5 p-0 set-aboutus-image"></div>
+                    <div className="row container-about-us">
+                            <div className="col-md-5 col-sm-12 p-0 set-aboutus-image">
 
-                            <div className="col-7 set-aboutus-text p-5">
+                            </div>
+
+                            <div className="col-md-7 col-sm-12 set-aboutus-text p-5">
                                 <div className="custom-text">
                                     <h1>About Us</h1>
                                     <p>

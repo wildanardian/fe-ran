@@ -1,0 +1,14 @@
+nav {
+    background-color: #E7F9FF;
+    font-family: 'Raleway';
+}
+
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #0D5895 !important;
+}
+
+.nav-link:hover {
+    transition: all 0.2s;
+}
